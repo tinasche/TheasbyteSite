@@ -14,25 +14,31 @@ html {
 }
 
 body {
+  background-color: #2f4f4f;
   margin-bottom: 60px;
   font-family: 'Quicksand', sans-serif;
   font-weight: 400;
+  color: #d3d3d3;
+}
+nav {
+  color: #d3d3d3;
 }
 
 .nav-link:hover {
-  border: 1px darkslateblue solid;
+  border: 1px #2f4f4f solid;
 }
 
 #message-form {
   width: 80%;
+  color: #d3d3d3;
   padding: 1rem;
-  border: 4px solid #ffa500;
 }
+
 h1 {
   font-weight: 600;
 }
 .contact-btn {
-  background-color: #ffa500;
-  color: white;
+  background-color: #d3d3d3;
+  color: black;
   font-size: 16px;
 }
